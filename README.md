@@ -1,1 +1,1 @@
-# Clicker
+# Clicker for message sending.
